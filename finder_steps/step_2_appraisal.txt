@@ -1,0 +1,76 @@
+2 appraisal district
+AHO, HUNTER!
+
+Welcome to the second step of the Deed Hunter Method!
+
+The second step of the Deed Hunter Method is the Appraisal District.
+
+This is where you will find information about all the properties on the list.
+
+The first piece of information you should look for is the Assessor's Identification Number. This number, depending on the jurisdiction, can have different names such as:
+
+● Property Account Number
+
+● Tax Account Number
+
+Siedwell Number
+
+Folio Number
+
+The list should also have the address and name of the property owner.
+
+After accessing the Appraisal District website, enter the property number. You will be taken to the property page and all its information. This page will display several pieces of information, some of which are:
+
+● Information about the owner
+
+The value of the property in dollars
+
+● Characteristics of the house
+
+● Square footage
+
+● Year the property was built
+
+Some Appraisal websites even display photos of the property, but be very careful as the photo may be out of date. They display the market condition and some will also display local real estate data.
+
+Another thing, which is one of the most important to look for on the Appraisel page, is the Gis Map. It will come in handy in the next few steps.
+
+It won't be long before you start to familiarize yourself with the different website formats used by counties.
+
+While looking at the property information page, follow these steps:
+
+1- Make sure that the owner of the property matches the one listed.
+
+2- Check the mailing address. If it is different from the property, it means that the owner is absent and it is very likely that the property is not homesteaded.
+
+3- Check that the property is displayed as "100% Ownership". Stay away from properties that don't follow this criterion, you don't want to buy just a piece of property, do you?
+
+4- What type of property? Condominium, house, townhouse, vacant lot, commercial property, etc.
+
+5- Take photos of the property (when available) to make the comparison in the next step.
+
+Example: Searching for the Appraisal District in the State of Alabama.
+
+1 - In the Alabama Tax Office, search for Property tax and proceed to Mapping Gis.
+
+2- Scroll down to "read more".
+
+3 - This tab shows the Appraisal and Gismaps for all the counties.
+
+4- Choose a county and click on it.
+
+5 - View the map
+
+We were redirected to the county's Gis Maps site. There are some maps there with Floodzone, Parcel buffer, etc.
+
+6 - Clicking on the Parcel Buffer will redirect you to this Gis Map.
+
+7 - After we find the property, we'll open the Appraisal.
+
+-In the 3 points
+
+-- View in the attribute table
+
+- View in attribute table
+
+Translated with www.DeepL.com/Translator (free version)
